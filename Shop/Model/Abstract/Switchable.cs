@@ -1,0 +1,4 @@
+namespace Shop.Model
+{
+    
+}
